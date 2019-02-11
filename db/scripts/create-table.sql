@@ -1,0 +1,6 @@
+CREATE TABLE posts(
+   id INT NOT NULL AUTO_INCREMENT,
+   text VARCHAR(2000) NOT NULL,
+   votes INT,
+   PRIMARY KEY (id)
+);

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  height: 100px;
+  color: "dark";
+}
+
+.navbar-title{
+  margin-left: 20px;
+}
+
+
+.card-columns{
+  margin-top: 15px;
+}
+
+.btn-adicionar{
+  margin-right: 20px;
+}
+
+
