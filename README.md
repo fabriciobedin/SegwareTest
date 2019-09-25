@@ -1,5 +1,5 @@
 # Segware Chalenge
-Projeto simples desenvolvido pra testar o domínio de algumas tecnologias.
+Projeto simples desenvolvido pra testar o domínio de algumas tecnologias. (Spring + React)
 
 ## Passos pra execução do projeto
 * instalar o Docker https://www.docker.com/
